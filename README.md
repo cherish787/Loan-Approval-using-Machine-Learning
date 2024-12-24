@@ -9,4 +9,4 @@ This project aims to develop a machine learning model to predict the likelihood 
 - Handles both numerical and categorical data.
 - Provides interpretable results to support decision-making.
 - Compares multiple machine learning models for optimal performance.
-- perform analytics
+
